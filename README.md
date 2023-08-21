@@ -4,8 +4,8 @@
  
 
 ## How it works?
-- The software itself is quit simple to use, you just need to fill in the blank spaces within your name, date, time and any description and then saved it
-- Once you have saved the scheduling, the appointiment will appear down below or you can just access the 'SEU RELTÓRIO.txt' archive to see all the schedules.
+- The software itself is quite simple to use. You just need to fill in the required fields with your name, date, time, and any description, and then save it.
+- Once you have saved the schedule, the appointment will be displayed below, or you can access the 'SEU RELTÓRIO.txt' file to see all the schedules."
 
 
 
