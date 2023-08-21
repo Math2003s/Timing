@@ -4,7 +4,7 @@
  
 
 ## How it works?
-- The software itself is quite simple to use. You just need to fill in the required fields with your name, date, time, and any description and then save it. Once you have saved the schedule, the appointment will be displayed below, or you can access the 'SEU RELTÓRIO.txt' file to see all the schedules.
+The software itself is quite simple to use. You just need to fill in the required fields with your name, date, time, and any description and then save it. Once you have saved the schedule, the appointment will be displayed below, or you can access the 'SEU RELTÓRIO.txt' file to see all the schedules.
 
 - CREATE new schedule: click on the 'ADICIONAR' button.
 - SAVE or MODIFY the schedule: choose the scheduled that will be modifyed and then press 'SALVAR' button.
