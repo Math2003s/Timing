@@ -15,4 +15,4 @@ For the software to work correctly, it's necessary to import the database connec
 
 
 # next steps
-[] Translate to English
+[ ] Translate to English
