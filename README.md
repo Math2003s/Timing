@@ -4,9 +4,11 @@
  
 
 ## How it works?
-- The software itself is quite simple to use. You just need to fill in the required fields with your name, date, time, and any description, and then save it.
+- The software itself is quite simple to use. You just need to fill in the required fields with your name, date, time, and any description, and then save it by clicking on the 'ADICIONAR' button.
 - Once you have saved the schedule, the appointment will be displayed below, or you can access the 'SEU RELTÓRIO.txt' file to see all the schedules."
-- If you want to delete any schedule just select the schedule and click on the 'apagar' button.
+- If you want to make any modification in your schedule, choose the scheduled that will be modifyed and then press 'SALVAR' button.
+- If you want to delete any schedule just select the schedule and click on the 'EXCLUIR' button.
+- Finally, if you want to quit the software press the 'SAIR' button.
 
 
 
