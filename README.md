@@ -6,10 +6,10 @@
 ## How it works?
 The software itself is quite simple to use. You just need to fill in the required fields with your name, date, time, and any description and then save it. Once you have saved the schedule, the appointment will be displayed below, or you can access the 'SEU RELTÓRIO.txt' file to see all the schedules.
 
-- CREATE new schedule: click on the 'ADICIONAR' button.
-- SAVE or MODIFY the schedule: choose the scheduled that will be modifyed and then press 'SALVAR' button.
-- DELETE the schedule: select the schedule and click on the 'EXCLUIR' button.
-- EXIT the software: if you want to quit the software press the 'SAIR' button.
+- CREATE NEW: click on the 'ADICIONAR' button.
+- SAVE or MODIFY: choose the scheduled that will be modifyed and then press 'SALVAR' button.
+- DELETE: select the schedule and click on the 'EXCLUIR' button.
+- EXIT: if you want to quit the software press the 'SAIR' button.
 
 
 
