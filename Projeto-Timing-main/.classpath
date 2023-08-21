@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SOFTWARE_ALPHAVERSION_1.0/src"/>
+	<classpathentry kind="lib" path="SOFTWARE_ALPHAVERSION_1.0/Conector/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="SOFTWARE_ALPHAVERSION_1.0/img.jar"/>
+	<classpathentry kind="output" path="SOFTWARE_ALPHAVERSION_1.0/Bin"/>
+</classpath>
